@@ -1,6 +1,5 @@
 import java.io.IOException;
 import org.apache.hadoop.conf.Configured;
-import org.apache.hadoop.io.DoubleWritable;
 import org.apache.hadoop.util.Tool;
 import org.apache.hadoop.util.ToolRunner;
 import org.apache.hadoop.mapreduce.Job;
@@ -23,7 +22,7 @@ public class PassengerCount extends Configured implements Tool {
     }
 
     public int run(String[] args) throws Exception {
-        Job job = Job.getInstance(getConf(), "taxi passengers counter");
+        Job job = Job.getInstance(getConf(), "taxi");
         job.setJarByClass(this.getClass());
         // Use TextInputFormat, the default unless job.setInputFormatClass is used
         FileInputFormat.addInputPath(job, new Path(args[0]));
@@ -52,14 +51,14 @@ public class PassengerCount extends Configured implements Tool {
                     for (String word : line
                             .split(",(?=([^\"]*\"[^\"]*\")*[^\"]*$)")) {
                         if (i == 1) { // first columns corresponds to pick up date
-                            temporarymonth = word.substring(word.lastIndexOf('/') - 2,
-                                    word.lastIndexOf('/')); // uses 2 digit that stays between backslashes
+                            temporarymonth = word.substring(word.lastIndexOf('-') - 2,
+                                    word.lastIndexOf('-')); // uses 2 digit that stays between backslashes
                         }
                         if (i == 3) { // third column correspond to no. of passengers
                             passengercount.set(Integer.parseInt(word));
                         }
                         if (i == 7) { // 7th column stored pick up location number
-                            montharea.set(temporarymonth + " : " + Integer.parseInt(word));
+                            montharea.set(temporarymonth + "," + Integer.parseInt(word) + ",");
                         }
                         if (i == 9) {
                           if (word.equals("2")) { // writing out only cash payments
@@ -83,8 +82,7 @@ public class PassengerCount extends Configured implements Tool {
                            Context context) throws IOException, InterruptedException {
             sum = 0;
 
-            Text sumText = new Text("Passengers number that payed with cash for " + key
-                    + " month is: ");
+            Text sumText = new Text(key);
 
             for (IntWritable val : values) {
                 sum += val.get();
