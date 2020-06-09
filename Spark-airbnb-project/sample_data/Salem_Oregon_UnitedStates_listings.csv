@@ -1,0 +1,50 @@
+id,name,host_id,host_name,neighbourhood_group,neighbourhood,latitude,longitude,room_type,price,minimum_nights,number_of_reviews,last_review,reviews_per_month,calculated_host_listings_count,availability_365
+41974,Englewood Cottage,183514,Ruth,,Ward 1,44.94404,-123.00996,Entire home/apt,80,1,151,2018-10-28,1.30,3,78
+199568,Garden studio apt,974919,Sara,,Ward 1,44.95196,-123.05627,Entire home/apt,75,2,169,2020-03-20,1.60,2,4
+226880,quiet room with a view,974919,Sara,,Ward 1,44.95204,-123.05679,Private room,35,1,88,2019-12-11,0.90,2,0
+1159564,SOLAR ECLIPSE - A,2185672,Roberta,,Ward 3,44.88416,-123.04341,Private room,175,2,2,2013-08-30,0.02,1,365
+2894591,Quiet and cozy home in South Salem.,14613038,Sue,,Ward 7,44.90754,-123.07688,Private room,50,1,191,2020-02-05,2.68,1,330
+4394073,Warm and Welcoming in Downtown.,22810342,Michael,,Ward 1,44.94813,-123.02229,Private room,50,2,103,2020-04-01,1.56,2,210
+4785215,Century House Doug Fir Room,10502090,Jean,,Ward 2,44.93448,-123.02103,Private room,89,1,81,2020-03-13,1.26,3,329
+7293821,Chauffeurs Room @ the Villa,38202007,Julie,,Ward 7,44.92484,-123.0499,Entire home/apt,95,1,302,2020-03-05,5.21,1,86
+8255984,Downtown Salem Loft in Salem Oregon,43537767,Angela,,Ward 1,44.9419,-123.03976,Entire home/apt,220,2,67,2020-03-28,1.20,6,344
+8524259,Single room in Comfort Home,2421461,Nancy,,Ward 7,44.89105,-123.06843,Private room,75,1,2,2018-06-13,0.06,3,324
+8524266,Comfort Home for Traveling Professionals,2421461,Nancy,,Ward 7,44.89027,-123.06881,Private room,1300,1,0,,,3,9
+8698684,Charming 1925 Craftsman centrally located!,3208932,Christy And Arnaud,,Ward 2,44.93305,-123.01985,Entire home/apt,106,2,77,2019-12-26,1.46,3,267
+9075412,WittsPad,24077619,Cheryl,,Ward 1,44.94049,-123.06107,Private room,100,1,0,,,2,365
+9238563,Spacious Suite w/ Private Sauna and AC in City,48017737,Steve & Robin,,Ward 1,44.95434,-123.05679,Entire home/apt,95,2,341,2020-03-09,6.36,1,78
+9477671,"Stylish, Private, Urban Guest House",14797761,Leigh,,Ward 1,44.95668,-123.02635,Entire home/apt,70,1,354,2020-04-20,7.84,1,87
+9597053,Spacious home near downtown Salem,18810608,Karen,,Ward 1,44.95171,-123.04056,Entire home/apt,79,2,174,2020-03-29,3.32,1,152
+9956213,Immaculate home with Central AC in SE Salem,38945057,Ernest & Tal,,Ward 4,44.8759,-123.0604,Entire home/apt,115,2,85,2020-04-12,1.63,1,163
+11362008,Cozy room in Central Salem,3208932,Christy And Arnaud,,Ward 2,44.93135,-123.02125,Private room,30,1,346,2020-03-10,7.07,3,127
+12157896,The RoseCliff Bungalow,62027098,Debra And Brad,,Ward 1,44.9548,-123.0573,Entire home/apt,120,2,86,2020-02-27,1.81,1,365
+12232289,West Hills Modern Luxury- Private Room & Breakfast,65785099,Angela,,Ward 8,44.95214,-123.08653,Private room,50,1,18,2019-08-25,0.50,1,88
+12892550,Peaceful Room In Salem Historic Neighborhood,51689419,Nick,,Ward 1,44.94406,-123.01257,Private room,45,1,116,2020-02-29,2.42,2,179
+13238464,House on the Corner,18605800,Colleen,,Ward 1,44.94851,-123.02649,Private room,70,2,10,2020-03-18,1.26,1,225
+13620753,Private Suite 5 mins to Downtown/40 mins to Coast,78890374,Bob & Delia,,Ward 8,44.96147,-123.06952,Private room,49,2,271,2020-02-28,5.82,1,343
+13960938,"Entire Guest Suite, 1 or 2 BDRM/PRVT Bath/S Salem",19196434,Maria,,Ward 7,44.90212,-123.05863,Private room,45,2,115,2020-03-18,2.59,1,167
+14017093,Two rooms in historic neighborhood near University,74488167,Casey,,Ward 2,44.91961,-123.03913,Private room,45,1,229,2020-03-15,5.00,1,354
+14077210,Light filled Art Loft on Fairmount Hill,2666789,Mary Lou,,Ward 7,44.92497,-123.04879,Entire home/apt,105,1,237,2020-03-09,5.23,1,89
+14556351,Ben Lomond House,83848627,Matthew,,Ward 2,44.91557,-123.03931,Entire home/apt,265,2,79,2020-02-02,1.76,1,345
+14773378,Private Room five kilometers from Downtown Room 1,60660763,David,,Ward 2,44.91023,-123.02735,Private room,31,1,127,2020-03-22,2.87,2,322
+14967922,5-star 4-Bedroom home near WIllamette University,89181819,Kristen,,Ward 7,44.92066,-123.04678,Entire home/apt,300,2,5,2019-12-28,0.24,3,81
+15272064,"Vista Manor, queen, ensuite private bath, upstairs",49073704,Elizabeth,,Ward 2,44.91011,-123.04173,Private room,48,1,422,2020-03-22,9.80,4,324
+15815105,"Vista Manor,King bed,ensuite bathroom upstairs.",49073704,Elizabeth,,Ward 2,44.91177,-123.04171,Private room,65,1,249,2020-03-28,5.98,4,86
+16001174,Cozy flat with office.  Garden/water views,102278503,Victoria,,Ward 2,44.9265,-123.03195,Entire home/apt,205,90,1,2019-07-23,0.11,1,87
+16690039,Inspiring room in Central Salem,3208932,Christy And Arnaud,,Ward 2,44.93167,-123.02011,Private room,42,1,226,2020-03-23,5.67,3,121
+16769751,Guest bedroom/bathroom,111333376,Stu,,Ward 5,44.9635,-123.00077,Private room,50,1,45,2019-09-15,1.15,1,0
+17111184,"Century House Cedar Room with lots of space, light",10502090,Jean,,Ward 2,44.93392,-123.0196,Private room,105,1,23,2020-03-16,0.61,3,333
+17238244,(Phone number hidden by Airbnb) s Cottage - Walk in the Park (Phone number hidden by Airbnb) LI,22605257,Linda,,Ward 7,44.9274,-123.0467,Entire home/apt,130,1,248,2020-04-18,6.63,1,286
+17424096,Cozy Bedroom in a townhouse,35861426,Erenly,,Ward 4,44.86762,-123.03146,Private room,45,1,9,2019-02-11,0.25,1,356
+17433830,Motivation Room 4 In Quite Neighborhood,972844,Julia,,Ward 1,44.94449,-123.0132,Private room,39,1,49,2019-12-20,1.33,1,341
+17736273,Bluff house,120967569,Carol,,Ward 3,44.90794,-123.03198,Private room,50,2,8,2019-07-14,0.23,1,363
+17925070,Mill Creek BnB 1,122904806,Toni,,Ward 2,44.93413,-123.01519,Private room,50,1,75,2019-10-12,2.02,3,49
+18286333,Mill Creek BnB 2,122904806,Toni,,Ward 2,44.93359,-123.01376,Private room,50,1,53,2019-10-09,1.48,3,49
+18636159,Comfortable Master Bedroom with private bathroom,129478834,Vera,,Ward 3,44.9139,-122.97537,Private room,54,1,22,2019-12-12,0.61,1,0
+18654723,Paxson House - Toscono Room,49211542,Tim And Connie,,Ward 3,44.90616,-123.02936,Private room,75,2,6,2019-07-28,0.18,1,179
+18756208,Perfect Eclipse stay.,37502456,Becky,,Ward 4,44.87468,-123.02763,Entire home/apt,1500,2,1,2017-06-17,0.03,1,89
+18979869,"West Salem: Relax, Refresh and Room to sprawl",16355487,Sandy & Ben,,Ward 8,44.9717,-123.07465,Private room,50,2,1,2017-08-21,0.03,1,88
+19144944,Country Garden Retreat,133856626,Diane,,Ward 3,44.88898,-122.95201,Entire home/apt,77,1,173,2020-03-09,5.19,1,168
+19182947,Beautiful South Salem Home,72582641,Sarah,,Ward 7,44.91317,-123.05143,Entire home/apt,300,2,10,2019-08-05,0.31,1,0
+19247929,Spacious Cottage in South Salem,134773170,Isaac And Donia,,Ward 7,44.88799,-123.07317,Entire home/apt,60,2,76,2020-03-20,2.19,1,0
+19388806,"Cindy's Nook,  Suite, w/Private Entrance & Sauna",42050514,Cindy,,Ward 7,44.91736,-123.04686,Private room,69,1,213,2020-04-14,6.26,1,358

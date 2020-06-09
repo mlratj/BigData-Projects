@@ -1,0 +1,50 @@
+id,name,host_id,host_name,neighbourhood_group,neighbourhood,latitude,longitude,room_type,price,minimum_nights,number_of_reviews,last_review,reviews_per_month,calculated_host_listings_count,availability_365
+3083,Room #2 @ B-Love's Guest House,3518,Traci,,Prescott,37.80832,-122.293,Private room,65,3,37,2019-08-14,0.53,7,139
+5739,Mod Studio,9276,Leah And Gyorgy,,Oakland Ave-Harrison St,37.81503,-122.26212,Entire home/apt,125,6,256,2020-03-02,1.95,1,90
+11022,Rockridge Bungalow - Walk to All!,40142,Michelle,,Shafter,37.83771,-122.25191,Entire home/apt,121,3,136,2020-03-23,1.45,2,325
+13291,Farmhouse Room,51853,Kendall,,Santa Fe,37.84374,-122.27583,Private room,70,5,61,2019-12-13,0.50,1,39
+23637,Share my Charming Home!  (1 person or 1 couple ),93339,Mika,,Montclair,37.82925,-122.20966,Private room,63,7,43,2020-03-20,0.35,1,356
+24916,Rockridge Studio w/garden and Patio,98716,Judy,,Piedmont Avenue,37.83326,-122.25033,Entire home/apt,85,30,112,2019-10-31,0.94,2,351
+25473,Luxury Flat w/Mediterranean Garden—Upper Rockridge,106078,Lori,,Upper Rockridge,37.83688,-122.23184,Entire home/apt,141,7,18,2018-08-23,0.16,1,0
+29521,Sunny Rockridge Home,124220,Kymi,,Shafter,37.83744,-122.25789,Entire home/apt,150,5,35,2020-01-04,0.33,2,70
+31573,Rockridge  Craftsman Brown Shingl,98716,Judy,,Piedmont Avenue,37.83302,-122.25023,Entire home/apt,149,21,118,2020-03-27,1.03,2,350
+36702,North Oakland craftsman bungalow,119361,Vito,,Bushrod,37.84238,-122.26624,Entire home/apt,125,7,28,2020-03-14,0.24,1,198
+43343,Chef's Garden Flat - Easy Access to SF,147060,Jonathan,,Bushrod,37.84466,-122.26414,Entire home/apt,245,4,23,2019-06-24,0.34,2,0
+45870,Comfortable Rockridge Guest Room,77555,Vicki,,Rockridge,37.84794,-122.24514,Private room,93,2,43,2019-10-04,0.41,1,324
+46908,Tropical Modern Bungalow- Oakland- DISCOUNTED,210654,Mercedes,,Upper Dimond,37.80188,-122.21012,Entire home/apt,115,29,10,2020-03-25,0.58,1,173
+55255,En Suite.  Full Privacy.  Breakfast.  Value.,260773,Pat And Lynn,,Lakewide,37.80871,-122.25945,Private room,90,2,471,2020-03-11,4.10,1,273
+82024,Immaculate Rockridge In-law Oakland,445712,Dodie,,Shafter,37.83923,-122.25732,Entire home/apt,105,5,217,2020-02-04,1.97,1,334
+85974,Modern Sunny Rockridge Cottage,471600,Ericka,,Shafter,37.84341,-122.25243,Entire home/apt,148,3,229,2020-02-11,2.11,1,356
+87259,Paris in Oakland just off Piedmont Ave,478021,Phylis,,Piedmont Avenue,37.82616,-122.25234,Entire home/apt,129,7,26,2020-03-10,0.49,1,299
+135004,"Gorgeous,Old World, View House",644952,Kathryn,,Lincoln Highlands,37.80693,-122.20628,Entire home/apt,225,2,1,2015-08-07,0.02,2,294
+136250,"Miniature House, Studio Style, SAFE Neighborhood",667229,Mark,,Merriwood,37.83722,-122.2127,Entire home/apt,89,7,8,2019-02-24,0.20,1,350
+150527,Live/Work in Artist's Community.,725353,Sage,,South Kennedy Tract,37.77286,-122.23149,Entire home/apt,89,5,5,2018-07-17,0.08,1,0
+151422,Walkable Best Area ~ Green Sanctuary w/ porch,729004,Amy,,Adams Point,37.80895,-122.2524,Entire home/apt,108,2,8,2020-03-01,0.12,1,231
+151426,3+bedroom/3 bathroom house with a View of Oak & SF,729027,Lindsey,,Golf Links,37.75765,-122.15306,Entire home/apt,230,2,18,2019-05-19,0.17,1,352
+155368,Art Filled Oakland Hills Beauty,728977,Susan,,Upper Rockridge,37.84615,-122.23431,Entire home/apt,150,3,267,2020-03-15,2.50,1,287
+169599,Charming Garden Oasis 1bd apt.,808353,Marlene,,Millsmont,37.77892,-122.17626,Entire home/apt,75,2,193,2019-12-24,1.83,1,364
+177774,"Charming Cottage, Newly Renovated!",850362,Ari,,Upper Peralta Creek-Bartlett,37.79294,-122.21033,Private room,46,7,3,2012-12-16,0.03,1,363
+200696,Convenient Colorful Sunny Space,11583,Shanna,,Prescott,37.81101,-122.29862,Private room,55,7,24,2016-06-30,0.23,2,0
+202426, Charming Berkeley Oakland Border,240781,Rachel,,Bushrod,37.85216,-122.26416,Entire home/apt,83,3,0,,,1,0
+208186,"Private room with bath, and cat!",1024552,LaurieAnn,,Cleveland Heights,37.80648,-122.24448,Private room,69,2,263,2019-11-30,2.54,1,306
+237270,Lovely Victorian flat 1 blk to BART,1244345,Liesl,,Temescal,37.82988,-122.26436,Entire home/apt,102,2,33,2016-09-07,0.32,1,0
+242472,Spacious Suite in Rockridge Home,1272555,Amy,,Shafter,37.84266,-122.25228,Private room,114,2,187,2020-03-03,1.80,3,89
+248764,Private & Serene  Montclair/Oakland,1303404,Ted And Stefanie,,Glen Highlands,37.83709,-122.21798,Entire home/apt,120,2,253,2020-03-16,2.51,1,178
+253308,Hip Bohemian Artist's Studio,1329994,Nancy,,Oakland Ave-Harrison St,37.82023,-122.25647,Entire home/apt,72,2,435,2020-03-11,4.23,1,337
+259865,"Charming 3 bed 1 bath in Oakland,CA",1363773,Tamar,,Trestle Glen,37.81441,-122.23291,Entire home/apt,160,1,4,2015-04-14,0.04,1,0
+260659,Super-central Craftsman bungalow w/ hot tub & yard,1367629,Michael,,Golden Gate,37.84343,-122.28659,Entire home/apt,165,7,22,2020-02-18,0.23,1,0
+275357,3 bdr+ Piedmont Ave/Piedmont,1436970,Laura,,Piedmont,37.82718,-122.24463,Entire home/apt,185,35,3,2018-07-28,0.04,1,0
+302629,"Private Studio, Oakland Hills, Montclair District",1551566,Rachel,,Glen Highlands,37.84398,-122.2219,Entire home/apt,88,3,133,2020-02-13,1.32,1,217
+303785,"beautiful 3BR Craftsman, Rockridge",1553283,Aggie,,Rockridge,37.85023,-122.24664,Entire home/apt,200,21,0,,,1,0
+315467,"Beautiful Oakland Hills, 4Bd/3Ba, amazing backyard",1097395,Laura & Paul,,Merriwood,37.84007,-122.21092,Entire home/apt,375,3,18,2019-08-18,0.23,1,0
+341704,Temescal - 2 Bedroom Craftsman - Great Location,1700817,Jennifer,,Temescal,37.83271,-122.25438,Entire home/apt,135,4,28,2017-12-31,0.29,1,0
+342204,Beautiful & Spacious - sleeps 3,1736185,Elena,,Adams Point,37.81069,-122.25524,Entire home/apt,150,21,2,2014-04-12,0.02,1,0
+348534,In-Law Apt in the Oakland Hills,1766074,Mike,,Forestland,37.84313,-122.20446,Entire home/apt,105,2,89,2020-03-31,0.96,1,356
+349748,Garden Cottage on Tree-Lined Street,1772116,Noel,,Glenview,37.80246,-122.22497,Entire home/apt,99,2,169,2019-09-04,1.70,1,263
+352676,Shelter n place n private Temescal cottage,1785828,Rebecca,,Bushrod,37.84053,-122.26523,Entire home/apt,80,1,130,2020-03-21,1.37,1,356
+387039,"Quiet Sunny ""Studio"" in Top Fl Flat",1936623,Trevor And Dawna,,Bushrod,37.84283,-122.26617,Private room,69,14,17,2018-06-01,0.18,2,294
+387040,Quiet sunny family-sized garden apt,1936623,Trevor And Dawna,,Bushrod,37.84237,-122.26552,Entire home/apt,99,30,8,2015-08-31,0.10,2,257
+470028,Landmark Craftsman Mansion,1748565,Foster,,Upper Rockridge,37.85115,-122.23729,Entire home/apt,2500,4,8,2018-04-21,0.11,2,365
+480379,Stylish bungalow near freeways & BART,1750414,Angela,,Santa Fe,37.84351,-122.27381,Entire home/apt,125,14,14,2020-04-10,0.31,1,177
+486415,Art Deco in the Oakland Hills ,2407132,Jess,,Redwood Heights,37.80112,-122.19014,Entire home/apt,225,7,6,2015-08-07,0.06,1,0
+503632,"Private 2BR Rockridge Upper Flat Walk to BART, TJs",1481714,Susie,,Shafter,37.83876,-122.25609,Entire home/apt,149,3,154,2020-02-26,1.62,1,89

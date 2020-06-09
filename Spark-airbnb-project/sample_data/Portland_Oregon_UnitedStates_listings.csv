@@ -1,0 +1,50 @@
+id,name,host_id,host_name,neighbourhood_group,neighbourhood,latitude,longitude,room_type,price,minimum_nights,number_of_reviews,last_review,reviews_per_month,calculated_host_listings_count,availability_365
+12899,"Alberta Arts 2 bedroom suite, charming 1906 house",49682,Ali And David,,Concordia,45.56488,-122.63418,Entire home/apt,75,2,544,2020-04-22,4.34,1,318
+16688,"Beautiful condo in downtown Pearl, NW Portland",64840,Ashish,,Pearl,45.52542,-122.68557,Entire home/apt,275,2,82,2020-03-19,2.22,1,358
+29931,Lovely SW Victorian w/Bonus Room and Hot Tub,79786,Ken,,Hayhurst,45.48278,-122.72089,Entire home/apt,200,2,53,2019-08-31,0.44,3,336
+37676,Mt. Hood View in the Pearl District,162158,Paul,,Pearl,45.52555,-122.68193,Entire home/apt,125,30,123,2019-10-11,1.03,2,365
+39938,Friendly Guesthouse / 10 Min to Airport & Downtown,171371,Sarah,,Woodlawn,45.57428,-122.64594,Private room,29,30,274,2019-11-18,4.36,3,90
+41601,Grandpa's Bunkhouse-Backyard Studio,179045,Jean,,Roseway,45.54935,-122.58425,Entire home/apt,89,3,219,2019-10-14,1.84,2,365
+42347,Portland is Accessible!,184886,Sharon,,Laurelhurst,45.52211,-122.63147,Private room,55,2,200,2020-03-15,1.69,1,62
+45890,Auntie's Hideaway--Daylight Downstairs Studio,179045,Jean,,Roseway,45.54889,-122.58554,Entire home/apt,61,3,186,2020-05-07,1.72,2,336
+53939,Central East Side: comfy suite,206917,Sue,,Kerns,45.52817,-122.63582,Private room,61,3,84,2019-11-24,1.13,2,362
+53940,"Central E. Side: light, airy haven",206917,Sue,,Kerns,45.52532,-122.63272,Private room,78,3,50,2019-09-13,0.82,2,362
+59425,Beautiful Alberta Arts Basement Apt,285416,Pauly & Myra,,Vernon,45.56181,-122.65097,Entire home/apt,95,30,11,2012-11-16,0.10,1,344
+61677,Large Peaceful Double Room w Charm: upstairs Reed.,298438,Deborah,,Reed,45.48845,-122.62633,Private room,40,3,115,2019-10-05,1.02,1,0
+61893,Comfortable. Ideal location. Next to nature.,300391,Matt,,Goose Hollow,45.52258,-122.69955,Entire home/apt,180,30,9,2020-03-31,0.21,1,229
+64557,Sunny SW Artist Studio w/ Hot Tub,79786,Ken,,Hayhurst,45.48294,-122.71922,Entire home/apt,90,31,49,2019-11-06,0.43,3,98
+65466,Mt. Tabor Bungalow,170035,Scott,,Mt. Tabor,45.50661,-122.60892,Private room,60,2,158,2020-03-08,1.92,1,314
+66944,"Hip, Lively Neighborhood, Spacious Apt.",329173,Kevin,,Boise,45.55078,-122.67492,Entire home/apt,175,2,259,2020-04-21,2.32,1,295
+67036,Historic Home Located in Central City,329777,Will,,Sullivan's Gulch,45.53195,-122.64483,Entire home/apt,425,4,31,2020-02-27,0.28,1,130
+77522,"Charming Eastmoreland Suite, Pets Okay,  Hot Tub",345461,Diane,,Eastmoreland,45.47086,-122.63273,Private room,55,2,84,2020-03-16,0.83,1,191
+80357,"Private, Alley House,  Close-in",415758,Esther,,Sullivan's Gulch,45.53223,-122.63978,Entire home/apt,85,30,2,2020-01-01,0.02,2,0
+93613,Sunny Queen Room FUN Alberta Arts,501715,Teresa,,Sabin,45.55536,-122.65106,Private room,43,30,63,2020-01-18,0.60,5,344
+94500,Room in Vintage Alberta Bungalow,499386,James,,Beaumont-Wilshire,45.55748,-122.63038,Private room,59,2,169,2019-10-14,1.55,1,180
+95313,Warm + Cozy Apt nr Dining/Alberta/Bus,507756,Andrée,,Woodlawn,45.5737,-122.65064,Entire home/apt,69,1,487,2020-03-24,4.45,3,85
+95557,Egregiously SE Portland #2 Clinton,51949,Amy,,Hosford-Abernethy,45.50456,-122.64693,Entire home/apt,165,2,203,2020-02-22,1.86,1,262
+99355,Beautiful Apt near City Center!,523311,Mark,,Irvington,45.53895,-122.65156,Entire home/apt,155,1,166,2020-03-02,1.65,2,305
+114086,Bright Friendly Home- Alberta Arts,501715,Teresa,,Sabin,45.55593,-122.65029,Private room,23,30,65,2019-09-01,0.60,5,159
+115681,Piedmont Cottage on Peninsula Park,585047,Heather & Topher,,Piedmont,45.56741,-122.67257,Entire home/apt,83,30,263,2020-04-30,2.43,3,283
+117969,Beautiful Newly-Remodeled Apartment,589016,Steve,,Richmond,45.50988,-122.6313,Entire home/apt,85,2,216,2020-03-22,3.58,1,98
+131088,Second floor garden apartment ,2513602,Jeannette,,Cully,45.56028,-122.6171,Entire home/apt,81,2,65,2019-09-01,0.79,2,365
+140614,Bright bsmt apartment near Alberta,491587,Jeanne,,Concordia,45.56577,-122.64088,Private room,65,4,61,2019-09-04,0.57,2,363
+143483,Garden Hideaway near City Center!,523311,Mark,,Irvington,45.54029,-122.65006,Entire home/apt,78,1,103,2020-04-26,1.00,2,332
+145199,"Upstairs, studio with bath, fridge",683139,Amy,,Montavilla,45.53008,-122.59075,Private room,65,3,74,2019-10-22,0.69,1,365
+173868,Pearl District / NW Portland Condo,830383,Colette,,Northwest District,45.52953,-122.68931,Entire home/apt,150,183,23,2017-11-20,0.22,1,0
+182450,"Luminous, Cosy Home near lively SE Division Street",52505,Judy,,Richmond,45.50522,-122.63277,Entire home/apt,77,3,23,2020-03-20,0.25,2,36
+182465,Great Breakfast next to lively Division St,52505,Judy,,Richmond,45.50754,-122.63268,Private room,59,2,320,2020-02-23,3.00,2,119
+195632,Foodie's Paradise & Everyone's Playground!,659137,Anjali,,Boise,45.5528,-122.67729,Entire home/apt,128,3,79,2020-03-21,0.74,1,85
+199683,"Authentic Portland Flavor, Central!",975606,Leo,,Rose City Park,45.54419,-122.60362,Private room,49,30,43,2019-09-07,0.45,2,0
+204002,NW Nob Hill Serene City Bedroom,1001311,Alleyn,,Northwest District,45.53445,-122.70696,Private room,75,1,499,2019-12-29,4.71,4,0
+205616,Entire Home + Cottage • A Painted Lady Inn • 6 Bed,1011157,Jody,,Irvington,45.53689,-122.64977,Entire home/apt,599,1,81,2020-01-03,1.30,7,263
+217607,One Bedroom Artists Loft - Close to EvErYtHiNg,971012,C,,Old Town/Chinatown,45.52653,-122.67513,Entire home/apt,160,15,48,2019-08-27,0.46,2,271
+218708,"Amazing Location in NE, Opal 28 - King Suite #3",6313800,Margot,,Kerns,45.52184,-122.63538,Entire home/apt,155,2,497,2020-04-28,4.73,7,85
+222298,"Blues,brews,and bicycle guesthouse",1153902,Taizz,,Overlook,45.55821,-122.69223,Private room,65,2,95,2019-10-07,0.91,3,145
+229291,NW Nob Hill Neighborhood Bedroom,1001311,Alleyn,,Northwest District,45.53351,-122.70633,Private room,65,30,725,2019-12-31,6.90,4,0
+231732,"large, sunny room in farmhouse",1153902,Taizz,,Overlook,45.55816,-122.69143,Private room,30,30,45,2020-01-29,0.47,3,0
+231734,"Private, sunny room in farmhouse",1153902,Taizz,,Overlook,45.55771,-122.68994,Private room,65,2,30,2020-02-21,0.29,3,329
+236108,Large COMFY Room in Alberta Arts,501715,Teresa,,Sabin,45.55645,-122.64854,Private room,28,30,58,2019-10-01,0.59,5,344
+249526,Rosebud Room,1307164,Hilary,,Hosford-Abernethy,45.50903,-122.64401,Private room,48,2,409,2020-03-15,4.02,2,89
+259912,"Private ENTRY-BATH-TWO BEDS/deck, river views-WOW!",1362006,Gracie And David,,Cathedral Park,45.59228,-122.76218,Private room,45,2,96,2020-03-19,1.31,1,224
+267409,Pretty SW  Garden Apt. w Hot Tub,79786,Ken,,Hayhurst,45.48256,-122.71935,Entire home/apt,100,31,8,2016-02-01,0.08,3,248
+272827,Moroccan-Inspired SW Portland Home,1427852,Rachel,,Ashcreek,45.45264,-122.73628,Private room,75,30,59,2019-08-25,1.25,1,364

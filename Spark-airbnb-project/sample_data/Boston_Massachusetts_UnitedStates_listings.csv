@@ -1,0 +1,50 @@
+id,name,host_id,host_name,neighbourhood_group,neighbourhood,latitude,longitude,room_type,price,minimum_nights,number_of_reviews,last_review,reviews_per_month,calculated_host_listings_count,availability_365
+3781,HARBORSIDE-Walk to subway,4804,Frank,,East Boston,42.36413,-71.02991,Entire home/apt,125,28,16,2019-12-21,0.28,1,97
+5506,**$49 Special **   Private! Minutes to center!,8229,Terry,,Roxbury,42.32981,-71.09559,Entire home/apt,145,3,106,2019-10-31,0.79,6,307
+6695,$99 Special!! Home Away! Condo,8229,Terry,,Roxbury,42.32994,-71.09351,Entire home/apt,169,3,115,2019-11-02,0.88,6,266
+8789,Curved Glass Studio/1bd facing Park,26988,Anne,,Downtown,42.35919,-71.06265,Entire home/apt,99,91,24,2019-09-30,0.35,8,290
+10730,Bright 1bed facing Golden Dome,26988,Anne,,Downtown,42.3584,-71.06185,Entire home/apt,150,91,31,2019-12-01,0.24,8,42
+10813,"Back Bay Apt-blocks to subway, Newbury St, The Pru",38997,Michelle,,Back Bay,42.34961,-71.08904,Entire home/apt,179,91,80,2020-03-08,2.74,9,0
+10986,Waterfront/North End Furnished Large Studio Apt,38997,Michelle,,North End,42.36352,-71.05075,Entire home/apt,125,91,2,2016-05-23,0.04,9,364
+16384,Small Room in Cambridge Kendall MIT,23078,Eric,,Beacon Hill,42.3581,-71.07132,Private room,50,91,0,,,1,365
+18711,The Dorset | 3BR 1BA | Walk to the Redline and JFK UMass!,71783,Lance,,Dorchester,42.32212,-71.06096,Entire home/apt,154,29,52,2019-10-05,0.43,39,260
+22195,Copley House - Premium Studio,85130,Copley,,Back Bay,42.34558,-71.0793,Private room,115,1,21,2020-02-08,0.17,6,360
+22354,COPLEY SQ...19TH C.TWNHSE SUNNY RM,85770,Robert,,South End,42.34496,-71.07486,Private room,148,2,316,2019-12-13,2.98,5,88
+24240,"The Golden Slipper B&B Afloat, 2 bed/2 bath",97821,Gretchen,,North End,42.36366,-71.05023,Entire home/apt,275,2,103,2019-10-03,0.89,1,272
+29765,"Luxury suite, Moroccan furnishings",128280,Elizabeth,,Charlestown,42.37754,-71.06642,Entire home/apt,221,2,93,2018-10-21,0.77,2,269
+40601,Private room & bath - Jamaica Plain,174986,Robert,,Jamaica Plain,42.3151,-71.11108,Private room,95,6,75,2019-11-04,0.64,1,331
+45987,Gorgeous Garden Studio Charlestown,205107,Atef,,Charlestown,42.37404,-71.06118,Entire home/apt,125,3,130,2019-12-10,1.11,1,89
+60029,Room in geographical heart of Hub,255183,Michelle,,Roxbury,42.32584,-71.08927,Private room,75,2,141,2019-08-13,1.25,5,46
+60356,Bookcase 1bd facing Boston Common,26988,Anne,,Downtown,42.35712,-71.0618,Entire home/apt,175,32,18,2018-11-05,0.23,8,322
+67774,Corner 1 bed facing Golden Dome,26988,Anne,,Beacon Hill,42.35867,-71.06332,Entire home/apt,110,32,44,2019-10-30,0.49,8,197
+69369,Room in Boston off the beaten path,255183,Michelle,,Roxbury,42.32614,-71.0884,Private room,79,2,120,2019-11-15,1.11,5,46
+77681,Waterfall Room: Bunker Hill B&B,416912,Christiane,,Charlestown,42.37853,-71.06177,Private room,140,2,54,2019-11-02,0.52,1,365
+95453,Royal Street Studio: Allston,508268,Richard,,Allston,42.35937,-71.13156,Entire home/apt,175,5,41,2019-10-13,0.37,1,357
+163941,$99* SPECIAL* 2 bed ApT! Location!,8229,Terry,,Roxbury,42.32965,-71.09503,Entire home/apt,225,3,228,2019-12-30,2.16,6,162
+169430,Stylish + Comfortable Urban Victorian,807320,Kate,,Roxbury,42.32158,-71.09047,Entire home/apt,200,2,149,2020-02-23,1.41,1,11
+190170,In-Law Suite w/Room to Spare :-),841314,Fanny & Candice,,Dorchester,42.31039,-71.06907,Entire home/apt,55,7,68,2020-03-01,0.64,1,247
+197727,"Great Boston neighborhood , Jamaica Plain",964356,Jill,,Jamaica Plain,42.3132,-71.11832,Private room,60,30,44,2020-03-17,0.42,1,178
+197972,Perfect Location--Super Studio!,965697,Chris & Kristina,,Jamaica Plain,42.31732,-71.10834,Entire home/apt,90,2,388,2020-03-31,3.75,2,143
+210097,Treetop Haven in the City,1035747,Maria Elena,,Jamaica Plain,42.31864,-71.10641,Entire home/apt,100,3,192,2020-03-07,1.84,1,281
+220676,Private room off the Freedom Trail.,1144302,Howard,,North End,42.36539,-71.05438,Private room,95,3,251,2020-03-03,2.41,1,89
+225224,4th floor office room,85770,Robert,,South End,42.34643,-71.07503,Private room,105,2,318,2020-03-21,3.07,5,90
+257588,BOSTON LUXURY FOR LESS!!NEAR BCEC $4000 for April,1355344,Meri,,South Boston,42.33066,-71.03984,Entire home/apt,200,2,326,2020-02-17,3.46,1,230
+276450,19th Century Luxury | South End | 1BR 1BA #3,814298,Thatch,,Roxbury,42.33821,-71.07978,Entire home/apt,200,91,92,2019-10-28,0.95,106,365
+295285,"Single Bedroom, Quiet Neighborhood",1271326,Tom,,West Roxbury,42.28719,-71.16816,Private room,80,1,30,2020-03-23,0.36,1,275
+322593,"Near Hospitals, 28 Day Bking Only,OutdoorSpace",1651480,Edward,,South End,42.34232,-71.07594,Entire home/apt,350,28,408,2020-03-31,4.75,4,209
+349347,Experience Past|Enjoy Present|South End 1BR 1BA #2,814298,Thatch,,Roxbury,42.33824,-71.08171,Entire home/apt,200,91,111,2019-09-19,1.15,106,179
+400067,Private Room in Spacious Apartment1,1997048,ToRena,,Dorchester,42.30088,-71.0819,Private room,60,91,24,2019-10-07,0.29,4,363
+447826,"Sweet Little House in JP, Boston",2053557,Hilary,,Jamaica Plain,42.31658,-71.11012,Private room,71,3,313,2020-03-01,3.29,1,222
+475254,Spectacular Boston Townhouse in Heart of Boston,2355815,Francine,,Bay Village,42.34846,-71.0681,Entire home/apt,6000,91,19,2020-02-29,0.44,1,0
+496022,"Private Floor, Private Bath, City Location",1956464,Maria,,Jamaica Plain,42.3092,-71.11836,Private room,200,91,16,2016-06-26,0.20,1,0
+526970,BACK BAY/COPLEY FIRST FLOOR ROOM,85770,Robert,,South End,42.34523,-71.07282,Private room,148,2,175,2019-10-31,1.84,5,90
+530983,The Grand View | 5BR 2BA | Victorian Home on Redline!,71783,Lance,,Dorchester,42.31368,-71.0612,Entire home/apt,180,29,67,2019-10-29,0.74,39,284
+533114,The Sawyer | 2BR 2.5BA | 1st Floor on Redline!,71783,Lance,,Dorchester,42.3122,-71.0611,Entire home/apt,154,30,53,2019-09-05,0.57,39,284
+533152,The Penthouse | 2BR 1BA | 4th Floor near the Redline and UMass Boston!,71783,Lance,,Dorchester,42.32212,-71.06096,Entire home/apt,128,30,55,2020-03-01,0.75,39,365
+561769,The Sky View | 3BR 1BA | City home on the Redline!,71783,Lance,,Dorchester,42.31371,-71.06126,Entire home/apt,103,29,59,2019-09-02,0.63,39,246
+568234,City's Hippest Location/Two Bedrooms,2796082,Margaret,,Jamaica Plain,42.3036,-71.10539,Private room,95,1,270,2020-03-01,2.86,2,319
+579605,The Mayhew | 2BR 1BA | 3rd Floor,71783,Lance,,Dorchester,42.32212,-71.06095,Entire home/apt,128,30,52,2020-03-02,0.56,39,365
+583255,"Boston Beauty, Walk to C and B line",306407,Valery,,Brighton,42.34171,-71.14851,Entire home/apt,149,91,20,2019-02-09,0.36,1,0
+601763,The Alameda 2 | 2BR 1BA | Brookline Area with easy and free parking!,71783,Lance,,West Roxbury,42.29192,-71.15407,Entire home/apt,128,31,37,2019-08-27,1.00,39,331
+611081,Houseboat in Boston Harbor,3029783,Deborah,,Charlestown,42.37579,-71.04981,Entire home/apt,325,2,35,2019-10-28,0.80,3,325
+619142, Getaway in Historic Charlestown,501427,Joe,,Charlestown,42.37808,-71.06343,Entire home/apt,175,91,168,2019-10-25,1.80,1,221
