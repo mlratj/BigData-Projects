@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="passengercount">
+    <output-path>$PROJECT_DIR$/out/artifacts/passengercount</output-path>
+    <root id="archive" name="passengercount.jar">
+      <element id="module-output" name="MapReduce_Taxi" />
+    </root>
+  </artifact>
+</component>
