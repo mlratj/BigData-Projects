@@ -1,0 +1,50 @@
+id,name,host_id,host_name,neighbourhood_group,neighbourhood,latitude,longitude,room_type,price,minimum_nights,number_of_reviews,last_review,reviews_per_month,calculated_host_listings_count,availability_365
+1947,Furnished Gold Coast studio #806,2153,Linda,,Near North Side,41.90246,-87.63405,Entire home/apt,59,14,4,2020-03-29,0.06,7,3
+2384,"Hyde Park - Walk to UChicago, 10 min to McCormick",2613,Rebecca,,Hyde Park,41.7879,-87.5878,Private room,55,2,178,2019-12-15,2.76,1,322
+4505,Open to healthcare professionals only until June 1,5775,Craig & Kathleen,,South Lawndale,41.85495,-87.69696,Entire home/apt,117,2,394,2020-02-16,2.91,1,146
+7126,Tiny Studio Apartment 94 Walk Score,17928,Sarah,,West Town,41.90289,-87.68182,Entire home/apt,80,2,384,2020-03-08,2.92,1,335
+9811,Barbara's Hideaway - Old Town,33004,At Home Inn,,Lincoln Park,41.91769,-87.63788,Entire home/apt,150,4,49,2019-10-23,0.67,11,320
+10610,3 Comforts of Cooperative Living,2140,Lois,,Hyde Park,41.79612,-87.59261,Private room,35,2,44,2020-02-14,0.66,5,268
+10945,The Biddle House (#1),33004,At Home Inn,,Lincoln Park,41.91183,-87.64,Entire home/apt,215,4,17,2020-03-14,0.23,11,302
+12140,Lincoln Park Guest House,46734,Sharon And Robert,,Lincoln Park,41.92335,-87.64951,Private room,289,2,4,2018-10-17,0.07,1,141
+24833,Private Apt 1 Block to Fullerton L Red Line - Deck,101521,Red,,Lincoln Park,41.92679,-87.65521,Entire home/apt,99,32,37,2018-07-29,0.31,4,90
+25879,Top 2/1  Block to Fullerton L Red Line Deck & Yard,101521,Red,,Lincoln Park,41.92693,-87.65753,Entire home/apt,99,32,47,2020-03-02,0.39,4,263
+28749,"Huge, quirky Bucktown Loft on 2 floors + parking",27506,Laurie,,Logan Square,41.92083,-87.6801,Entire home/apt,200,2,47,2018-01-01,0.41,1,310
+37738,Andersonville - Perfect location!,162364,Mat And Randy,,Uptown,41.97385,-87.66539,Private room,77,3,250,2020-03-15,2.10,1,316
+39742,Central guestroom! Walk everywhere!,170758,Eric,,Near North Side,41.89377,-87.63465,Private room,75,2,500,2019-09-30,4.31,1,0
+44020,2 Bed MCM 1 Block to Fullerton Red line L & Garage,101521,Red,,Lincoln Park,41.92673,-87.65731,Entire home/apt,80,32,52,2019-09-01,0.49,4,270
+71930,"Rest, Relax and Explore",334241,Michael And Veronica,,West Town,41.89615,-87.67934,Private room,59,3,67,2020-03-31,0.62,2,176
+79101,5★Cubs/Riviera/AragonTRAIN2Bdrms/Ba,272671,Two For The Road,,Uptown,41.96792,-87.65757,Private room,180,2,150,2020-02-16,1.35,4,310
+84042,The Explorer Room,334241,Michael And Veronica,,West Town,41.89615,-87.67934,Private room,55,3,75,2020-03-27,0.68,2,171
+110705,Fab Value!/ Spa /Deck/ARAGON/RIVIERA/TRAIN/CUBS/,272671,Two For The Road,,Uptown,41.9693,-87.65621,Private room,99,2,148,2020-03-08,1.36,4,310
+126280,"Near Lake, Wrigley and Weiss Hospital",626517,Gail,,Uptown,41.96852,-87.65225,Private room,48,3,162,2020-03-08,1.50,1,199
+145659,Trendy Roscoe Village 3BR/2BR walk to shops,683529,Joe,,North Center,41.94342,-87.68121,Entire home/apt,275,2,25,2020-03-01,0.45,20,356
+145690,4BR/2BR Walk to North Ave Beach & Zoo~Close to El,683529,Joe,,Lincoln Park,41.91289,-87.63864,Entire home/apt,475,2,44,2020-02-23,0.74,20,345
+165952,"Two Bedroom, One Bathroom Apartment",791089,Conrad,,Lake View,41.94274,-87.67321,Entire home/apt,198,3,60,2019-10-21,0.57,4,364
+166667,Cozy Garden Studio ,791089,Conrad,,North Center,41.94274,-87.67378,Entire home/apt,125,3,88,2019-10-19,0.82,4,365
+166706,"Three Bedroom, Two Bathroom Combo Apartment",791089,Conrad,,Lake View,41.94221,-87.67327,Entire home/apt,280,3,22,2019-06-03,0.21,4,365
+172616,ALONZO:  SWEET Flat in the Ukrainian Village,3908,Layne,,West Town,41.89753,-87.67315,Entire home/apt,72,7,67,2020-03-18,0.63,3,135
+175511,1BR/1BA Suite in Chicago (3709-G1),837429,Petru,,Irving Park,41.96012,-87.72158,Entire home/apt,67,3,33,2019-12-16,0.31,2,365
+184764,Room w/private bath -kid friendly,886362,Julie,,Portage Park,41.94325,-87.75403,Private room,85,3,162,2019-11-28,1.53,1,334
+189821,"Best in Chicago, private, excellent work space",899757,Meighan,,Logan Square,41.92918,-87.70219,Entire home/apt,125,2,488,2020-04-18,4.66,1,163
+198135,Darling Damen Dwelling (with bike if you like),85708,Sarah,,North Center,41.95935,-87.67963,Private room,44,2,170,2020-01-01,1.67,1,119
+207218,Historic Pullman Artist Flat - Artists & Explorers,1019125,Jb,,Pullman,41.6883,-87.60892,Entire home/apt,90,1,269,2020-04-11,2.56,1,296
+221109,1 Bedroom Apartment -Noble Square,1146738,Zeyna,,West Town,41.89273,-87.65654,Entire home/apt,115,20,112,2019-10-15,1.08,1,89
+225314,Cozy & comfy with AC close to California Blue Line,1173654,Jillian,,Logan Square,41.92543,-87.69593,Private room,75,2,20,2019-10-14,0.21,1,357
+230836,Huge Bedroom with pvt marble bath,1185573,Graz Anton,,Uptown,41.96331,-87.66088,Private room,125,365,5,2018-06-20,0.06,3,0
+233933,BROWN ROOM - WALK TO TRAIN TO O'HARE/DOWNTOWN,1224828,Tippi,,Irving Park,41.95602,-87.72781,Private room,55,2,153,2020-02-16,1.47,2,179
+248791,Quiet Bedroom/ARAGON/Train,272671,Two For The Road,,Uptown,41.96797,-87.65791,Private room,90,2,97,2020-02-19,0.94,4,310
+250354,Close to Michigan Ave and parks,1311953,Ronald,,Near South Side,41.86051,-87.62399,Entire home/apt,170,180,39,2018-04-25,0.38,1,358
+258253,Studio Apartment Unit 4,1358243,June,,West Ridge,42.00692,-87.68438,Entire home/apt,48,32,20,2020-04-01,0.20,1,362
+261509,You'll love Chicago! Guaranteed!,858008,Kassie,,Near North Side,41.90314,-87.63494,Entire home/apt,149,32,62,2018-11-20,0.63,1,242
+264547,Steps From the Best Chicago Offers,1387948,Dominic,,Near West Side,41.88467,-87.64487,Entire home/apt,195,10,65,2019-08-11,0.67,1,362
+267646,Logan Square Classic Bungalow,1313038,Mark,,Logan Square,41.92716,-87.70471,Private room,97,2,139,2019-10-20,1.36,1,205
+275496,Downtown 3BR/2BA Loft & Amazing River View,1142145,Jim,,Near West Side,41.88623,-87.6404,Entire home/apt,175,360,10,2014-11-08,0.14,1,364
+289689,"30 Day+ Med student, interns & interim stays.",1376077,Killian,,Edgewater,41.97794,-87.65764,Private room,26,30,61,2020-03-20,0.60,1,231
+289884,"Sunny Home w/ Private Bathroom, Parking, Laundry",1500490,Hailey,,Logan Square,41.92063,-87.68353,Private room,125,1,84,2019-10-28,0.88,2,365
+290155,15 Minutes to Everything.  Skyline View. Quiet.,1505878,Bob,,Bridgeport,41.82702,-87.63967,Entire home/apt,130,3,53,2020-03-17,0.53,2,0
+298321,nice room with king size bed,1537881,Marko,,Woodlawn,41.78216,-87.59027,Private room,47,2,46,2019-09-28,0.47,1,352
+312192,Winter Specials. You'll love this apartment.,1505878,Bob,,Bridgeport,41.82741,-87.63934,Entire home/apt,146,4,39,2020-03-15,0.59,2,0
+313227,WHOLE PRIVATE FLOOR near Train,259284,Cheryl,,Albany Park,41.96331,-87.70916,Entire home/apt,85,3,47,2017-07-17,0.48,1,118
+345075,"Spacious, Vintage Hyde Park Apt.",1746524,Patricia,,Kenwood,41.8077,-87.59436,Private room,85,2,232,2019-10-29,2.36,1,336
+349265,Historic Chicago Home - Hyde Park,1517871,Jon,,Hyde Park,41.80086,-87.58948,Entire home/apt,195,7,8,2018-09-17,0.08,2,348

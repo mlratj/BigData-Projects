@@ -1,0 +1,50 @@
+id,name,host_id,host_name,neighbourhood_group,neighbourhood,latitude,longitude,room_type,price,minimum_nights,number_of_reviews,last_review,reviews_per_month,calculated_host_listings_count,availability_365
+958,"Bright, Modern Garden Unit - 1BR/1BTH",1169,Holly,,Western Addition,37.76931,-122.43386,Entire home/apt,170,1,241,2020-03-28,1.83,1,118
+5858,Creative Sanctuary,8904,Philip And Tania,,Bernal Heights,37.74511,-122.42102,Entire home/apt,235,30,111,2017-08-06,0.83,1,0
+7918,A Friendly Room - UCSF/USF - San Francisco,21994,Aaron,,Haight Ashbury,37.76555,-122.45213,Private room,65,32,19,2020-03-06,0.15,9,365
+8142,Friendly Room Apt. Style -UCSF/USF - San Francisco,21994,Aaron,,Haight Ashbury,37.76555,-122.45213,Private room,65,32,8,2018-09-12,0.12,9,365
+8339,Historic Alamo Square Victorian,24215,Rosy,,Western Addition,37.77525,-122.43637,Entire home/apt,714,5,28,2019-06-28,0.22,2,365
+8739,"Mission Sunshine, with Private Bath",7149,Ivan & Wendy,,Mission,37.7603,-122.42197,Private room,139,1,736,2020-03-16,5.62,2,173
+9225,Artful Potrero Separate Floor with Garden,29674,Gae,,Potrero Hill,37.76259,-122.40543,Private room,135,1,531,2020-02-08,4.14,1,362
+10251,Victorian Suite in Inner Mission,35199,Roman & Sarah,,Mission,37.75831,-122.41386,Entire home/apt,150,30,337,2019-05-27,2.60,1,365
+10578,Classic Nob Hill Studio - Roof Deck,37049,Andrew,,Nob Hill,37.79143,-122.41544,Entire home/apt,120,30,18,2015-05-17,0.18,1,364
+10820,Haight Buena Vista Park Garden 3BR,38836,Bernat,,Haight Ashbury,37.77187,-122.43859,Entire home/apt,177,30,37,2018-12-01,0.29,33,364
+10824,Victorian House in Hayes Valley - 3BED-2BA,38836,Bernat,,Western Addition,37.77355,-122.42436,Entire home/apt,170,30,15,2019-08-18,0.15,33,272
+10832,Union Square Modern Loft,38836,Bernat,,Downtown/Civic Center,37.78574,-122.40798,Entire home/apt,121,30,20,2019-11-12,0.23,33,365
+12041,Sunny/Sunset view room UCSF/USF - San Francisco,21994,Aaron,,Haight Ashbury,37.76901,-122.44701,Private room,85,32,6,2018-09-20,0.06,9,0
+12042,Sunny/Sunset view room UCSF/USF - San Francisco,21994,Aaron,,Haight Ashbury,37.76932,-122.44723,Private room,85,32,5,2015-10-18,0.06,9,365
+12522,Perfectly located Castro,18431,Brenda,,Castro/Upper Market,37.76075,-122.43032,Private room,79,3,427,2020-03-10,3.40,1,35
+12584,"Views, sun, 12 ft ceilings, decks, 2BR work/sleep",49383,Tom,,Inner Sunset,37.76203,-122.45455,Entire home/apt,117,30,17,2019-08-31,0.18,1,344
+17132,Luxury 2BR suite with waterview,43185,Hijin + David,,South of Market,37.78647,-122.39072,Entire home/apt,450,30,14,2016-09-29,0.12,1,365
+18231,Loft-like Apt./Garden (monthly only available),70224,Arlene Helfand,,Noe Valley,37.74888,-122.42982,Entire home/apt,107,30,63,2020-03-27,0.52,1,363
+18904,Lower Haight Urban Zen with private bath,72464,Patrick,,Western Addition,37.77252,-122.43216,Private room,110,2,415,2020-03-10,4.05,2,90
+21334,Studio loft on top of Russian Hill,81455,Joe,,Nob Hill,37.7958,-122.41533,Entire home/apt,149,30,119,2019-02-05,0.98,1,363
+21914,A Friendly Room Apt. Style-UCSF/USF-San Francisco,21994,Aaron,,Haight Ashbury,37.76555,-122.45213,Private room,65,32,14,2017-08-16,0.13,9,365
+23630,Castro Guest Suite With Continental Breakfast,93257,Daniel,,Castro/Upper Market,37.75963,-122.44143,Entire home/apt,155,3,412,2020-03-17,3.42,1,261
+24463,"Potrero Hill ""Nest"" Quiet, Comfy & Convenient",99128,Cathryn,,Potrero Hill,37.75645,-122.3991,Private room,135,2,306,2020-02-29,2.53,2,178
+24685,Castro/Haight San Francisco,100567,Alison,,Haight Ashbury,37.77162,-122.43836,Private room,79,1,204,2020-02-09,1.71,1,324
+24723,Apartment-like rooms in PacHeights,100800,Cynthia,,Western Addition,37.78716,-122.43386,Entire home/apt,225,5,332,2020-03-12,2.71,1,83
+25094,San Francisco's Luxury Oasis Private Room On Noe,103339,Bruce,,Noe Valley,37.74188,-122.43122,Private room,150,5,42,2020-03-01,0.89,1,339
+25463,Modern Zen in the Lower Haight,72464,Patrick,,Western Addition,37.77729,-122.43421,Private room,110,2,446,2020-03-17,3.84,2,90
+25662,"Convenient, quiet, private",106005,Gayle,,Potrero Hill,37.76212,-122.39541,Private room,125,4,320,2020-03-13,2.68,1,359
+26408,Huge Central Victorian/Alamo Square,111141,Isabella,,Western Addition,37.77478,-122.4315,Entire home/apt,480,3,35,2019-12-28,0.33,1,3
+27025,Modernized Edwardian Apartment in the Castro/Eureka Valley,115673,Luis,,Castro/Upper Market,37.76298,-122.43136,Entire home/apt,125,30,132,2019-09-15,1.09,1,308
+27028,Secret Mission Garden,7149,Ivan & Wendy,,Mission,37.76005,-122.42208,Private room,199,1,29,2019-11-21,0.48,2,0
+29373,Sunny house with garden,126263,Cecilia,,Bernal Heights,37.73729,-122.41163,Entire home/apt,216,4,17,2020-01-21,0.16,2,0
+29557,gigi's bed and breakfast,126036,Gigi,,Outer Richmond,37.77931,-122.50518,Entire home/apt,155,2,65,2020-02-29,0.55,1,322
+32414,"Cozy, Sunny and Private Space",140251,Lisa,,Bernal Heights,37.74025,-122.41259,Entire home/apt,150,30,94,2019-09-29,0.79,1,249
+33578,Potrero Hill Garden Lookout,145258,Kepa,,Potrero Hill,37.76451,-122.39643,Entire home/apt,240,1,598,2020-03-06,5.10,2,352
+39174,Bette's New Place,127367,Annette,,Noe Valley,37.7483,-122.42488,Entire home/apt,107,30,21,2019-09-30,0.20,18,365
+39418,"Comfortable Home Base, Bernal Heights",169184,Therese And Nelson,,Bernal Heights,37.74093,-122.42055,Entire home/apt,94,60,22,2019-08-20,0.21,2,365
+40092,Cute Private Apt in the hip Mission,172182,Brian & Leah,,Mission,37.76016,-122.41969,Entire home/apt,108,30,97,2019-03-19,0.83,2,0
+40138,Peaceful room in yoga teacher's colorful apt.,172306,Ay,,Presidio Heights,37.78255,-122.44844,Private room,67,30,140,2020-02-29,1.22,1,358
+41055,Cozy Castro Cottage with Cat,178043,Chas,,Castro/Upper Market,37.76125,-122.43335,Entire home/apt,159,4,56,2020-01-17,0.48,2,3
+41172,Sue's Place,53314,Sue,,Bernal Heights,37.74132,-122.41818,Private room,130,3,263,2020-02-24,2.23,1,0
+41399,"Heart of San Francisco, the Mission",180530,Anton,,Mission,37.75611,-122.41866,Entire home/apt,290,30,81,2020-01-13,0.89,1,277
+41423,Guest Cottage - SF,180715,Dana,,Glen Park,37.73557,-122.43302,Entire home/apt,136,30,149,2019-12-13,1.26,1,356
+41609,Spacious Quiet SF Downtown Retreat,54299,Peter,,Nob Hill,37.79001,-122.41292,Entire home/apt,170,30,15,2019-12-06,0.13,1,355
+42403,Captain's Quarters,127367,Annette,,Bernal Heights,37.73356,-122.41851,Entire home/apt,85,30,6,2017-06-01,0.06,18,365
+42408,"Crows Nest,Charming Jr. One Bedroom",127367,Annette,,Bernal Heights,37.73404,-122.41781,Entire home/apt,85,30,4,2016-04-06,0.04,18,274
+42577,Garden View Hideaway - PET FRIENDLY,127367,Annette,,Potrero Hill,37.75447,-122.38813,Entire home/apt,150,30,2,2017-08-20,0.03,18,365
+43778,Lyon's Den,127367,Annette,,Haight Ashbury,37.77272,-122.44084,Entire home/apt,110,30,8,2018-07-14,0.07,18,365
+44032,Secret Lounge in The Mission,98733,David + Tina,,Mission,37.75145,-122.41207,Entire home/apt,95,30,287,2020-04-12,2.43,1,180
